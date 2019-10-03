@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1382197530 source:e:\code blocks c++\test-03\main.cpp
+	<iostream>
+	<graphics.h>
+
+1470596944 source:d:\project\code blocks c++\test-03\main.cpp
+	<iostream>
+	<GRAPHICS.H>
+
+1470643606 source:d:\project\code blocks c++\test-05\main.cpp
+	<iostream>
+	<GRAPHICS.H>
+	<conio.h>
+

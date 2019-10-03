@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476622539 source:d:\project\code blocks c++\test-46 dictionarry\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1476622798 source:e:\code blocks c++\test-46 dictionarry\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+

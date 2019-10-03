@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481648672 source:d:\project\code blocks c++\test-67 quick sort\main.cpp
+	<iostream>
+	<conio.h>
+

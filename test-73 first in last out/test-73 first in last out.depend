@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488382794 source:e:\code blocks c++\test-73 first in last out\main.cpp
+	<iostream>
+	<conio.h>
+

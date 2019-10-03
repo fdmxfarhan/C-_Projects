@@ -1,0 +1,57 @@
+#include <iostream>
+#include <conio.h>
+#include<stack>
+using namespace std;
+main()
+{
+    system("color b");
+    stack <char> st1;
+    char chr1[100];
+    cin>>chr1;
+    for(int i=0; chr1[i]!='.';i++)
+    {
+        if(chr1[i]=='(' || chr1[i]=='{' || chr1[i]=='[')
+            st1.push(chr1[i]);
+        else if(chr1[i]==')' ||chr1[i]=='}' ||chr1[i]==']')
+        {
+            if((st1.top()=='(' && chr1[i]==')') || (st1.top()=='[' && chr1[i]==']') || (st1.top()=='{' && chr1[i]=='}'))
+                st1.pop();
+            else
+            {
+                system("color c");
+                cout<<endl<<"your problem: "<<chr1[i];
+                break;
+            }
+        }
+        //cout<<endl<<st1.top();
+    }
+    if(st1.empty()!=1)
+    {
+        system("color c");
+        cout<<endl<<"not matched";
+    }
+	getch();
+}
+"              //////           ///            ////"
+"            ////   ////      //  // `       ///"
+"          //       ///           //      ////"
+"         //                      //    ////"
+"        //                      // ////"
+"        //                      //  ///"
+"        //                     //    ///"
+"        //                     //     ///"
+"         //        ///        //       ///"
+"          ////  ////         //         ///"
+"           ///////          //            /////"
+
+
+
+
+
+
+
+
+
+
+
+

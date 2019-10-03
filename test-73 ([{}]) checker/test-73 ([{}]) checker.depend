@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487619176 source:e:\code blocks c++\test-73 ([{}]) checker\main.cpp
+	<iostream>
+	<conio.h>
+	<stack>
+

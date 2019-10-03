@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473089683 source:d:\project\code blocks c++\test-35 drawing the heap tree\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+

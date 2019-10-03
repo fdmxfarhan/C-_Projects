@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1478104106 source:e:\code blocks c++\test-57 triangel fractal\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+
+1478082728 source:d:\project\code blocks c++\test-57 triangel fractal\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+

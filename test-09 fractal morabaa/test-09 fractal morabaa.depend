@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1470718792 source:e:\code blocks c++\test-09 fractal morabaa\main.cpp
+	<iostream>
+	<graphics.h>
+
+1470722680 source:d:\project\code blocks c++\test-09 fractal morabaa\main.cpp
+	<iostream>
+	<graphics.h>
+

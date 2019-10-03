@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476440355 source:d:\project\code blocks c++\test-45 big numbers zarb\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+

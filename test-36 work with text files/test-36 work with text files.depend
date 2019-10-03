@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474052824 source:d:\project\code blocks c++\test-36 work with text files\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+

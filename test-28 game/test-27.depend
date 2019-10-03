@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472143201 source:d:\project\code blocks c++\test-27\main.cpp
+	<iostream>
+	<graphics.h>
+

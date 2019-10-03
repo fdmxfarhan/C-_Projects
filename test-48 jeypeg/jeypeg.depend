@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476550783 source:c:\users\home\desktop\jeypage\main.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+
+1476681354 source:e:\code blocks c++\test-48 jeypeg\main.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+

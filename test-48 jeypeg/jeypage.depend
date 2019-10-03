@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476681570 source:e:\code blocks c++\test-48 jeypeg\main.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475474260 source:e:\code blocks c++\test-41 file min & max & sum\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1470719286 source:e:\code blocks c++\test-10 fibonachi circles\main.cpp
+	<iostream>
+	<graphics.h>
+
+1470723012 source:d:\project\code blocks c++\test-10 fibonachi circles\main.cpp
+	<iostream>
+	<graphics.h>
+

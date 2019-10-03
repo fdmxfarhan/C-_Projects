@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471347818 source:c:\users\user\desktop\code blocks c++\test-19 x++ && ++x\main.cpp
+	<iostream>
+	<conio.h>
+

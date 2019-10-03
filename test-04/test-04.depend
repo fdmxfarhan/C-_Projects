@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470608990 source:e:\code blocks c++\test-04\main.cpp
+	<iostream>
+	<graphics.h>
+

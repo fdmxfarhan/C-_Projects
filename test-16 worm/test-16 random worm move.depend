@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1471259286 source:d:\project\code blocks c++\test-15 random worm move\main.cpp
+	<iostream>
+	<graphics.h>
+
+1471265396 source:d:\project\code blocks c++\test-16 worm\main.cpp
+	<iostream>
+	<graphics.h>
+

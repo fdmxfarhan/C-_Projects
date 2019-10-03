@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1169117450 source:f:\insert sort\main.cpp
+	<iostream>
+	<conio.h>
+
+1169142650 source:e:\code blocks c++\test-66 insertion sort\main.cpp
+	<iostream>
+	<conio.h>
+

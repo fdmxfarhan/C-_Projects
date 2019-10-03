@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476643191 source:d:\project\code blocks c++\test-43 pictur in the text file\main.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+
